@@ -1,5 +1,7 @@
 # Prediction of Diabetes Patients
 
+![Diabetes](https://miro.medium.com/v2/resize:fit:759/1*4cmF9SaCjxtpWRshsrQqFw.jpeg)
+
 ## 1. Brief Description
 
 This project is aimed at developing a machine learning model for the prediction of diabetes patients. It utilizes a dataset of health-related features to classify individuals into diabetic or non-diabetic categories. The primary goal is to assist healthcare professionals in identifying individuals at risk of diabetes.
